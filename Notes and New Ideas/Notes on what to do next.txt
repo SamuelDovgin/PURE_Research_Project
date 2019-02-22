@@ -1,0 +1,43 @@
+ways to make kNN faster
+a                                                                                                                                                                                                                                  
+
+https://arxiv.org/pdf/1609.07228.pdf
+"The first type methods are hierarchical structure
+(tree) based methods, such as KD-tree [3], [13] ,Randomized
+KD-tree [30], K-means tree"
+-These perform well when the dimension fo the data is low
+
+
+"The second type methods are hashing based methods,
+such as Locality Sensitive Hashing (LSH) [17], Spectral
+Hashing [34], Iterative Quantization [36] and so on"
+
+
+KD trees
+inverted indicies
+	allow fast full text seraches
+	popular data structure for search engines
+	high dimensional data
+fingerprinting
+
+another way to solve this is through kNN graphs although its limitations
+are often in high computational costs
+
+data sets
+	look for this possibly
+https://depts.washington.edu/bicg/documents/MII_registration10.pdf
+
+UC irvine
+
+image registration
+	medical scans
+feature selection
+clustering
+
+decision tree learning
+
+k means
+
+446
+
+
