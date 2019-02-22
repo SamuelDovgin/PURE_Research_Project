@@ -11,6 +11,7 @@ work with large datasets in a reasonable amount of time.
 
 # Background Links
 [KSG Algorithm Original Research Paper](https://github.com/SamuelDovgin/PURE_Research_Project/blob/master/KSG_estimator/KSG%20original.pdf)
+ <br /> 
 [Mentor-written Intro to Topic](https://github.com/SamuelDovgin/PURE_Research_Project/blob/master/KSG_estimator/MI_estimation_writeup_rev1.pdf)
 
 # Conclusion
@@ -24,5 +25,5 @@ in PYTHON. Experience with python libraries Matplotlib and Numpy will be extreme
 endevors.
 
 # Acknowledgments
-Mentor: Alan Yang
+Mentor: Alan Yang  <br /> 
 PURE administrative team
